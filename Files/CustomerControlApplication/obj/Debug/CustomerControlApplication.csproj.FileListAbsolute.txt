@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c#\CustomerControlApplication\CustomerControlApplication\bin\Debug\CustomerControlApplication.exe.config
+C:\Users\User\Desktop\c#\CustomerControlApplication\CustomerControlApplication\bin\Debug\CustomerControlApplication.exe
+C:\Users\User\Desktop\c#\CustomerControlApplication\CustomerControlApplication\bin\Debug\CustomerControlApplication.pdb
+C:\Users\User\Desktop\c#\CustomerControlApplication\CustomerControlApplication\obj\Debug\CustomerControlApplication.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\CustomerControlApplication\CustomerControlApplication\obj\Debug\CustomerControlApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\CustomerControlApplication\CustomerControlApplication\obj\Debug\CustomerControlApplication.exe
+C:\Users\User\Desktop\c#\CustomerControlApplication\CustomerControlApplication\obj\Debug\CustomerControlApplication.pdb
